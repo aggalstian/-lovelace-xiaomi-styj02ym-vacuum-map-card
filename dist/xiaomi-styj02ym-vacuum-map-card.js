@@ -686,7 +686,7 @@ class XiaomiVacuumMapCard extends LitElement {
     }
 }
 
-customElements.define('xiaomi-vacuum-map-card', XiaomiVacuumMapCard);
+customElements.define('xiaomi-styj02ym-vacuum-map-card', XiaomiVacuumMapCard);
 
 
 
